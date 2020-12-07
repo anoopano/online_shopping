@@ -2,7 +2,7 @@
   "name": "amazon-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://anoopano.github.io/online_shopping",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
